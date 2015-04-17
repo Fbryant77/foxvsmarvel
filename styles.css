@@ -1,10 +1,15 @@
 body{
-	
+  margin: 0px;
 	background-image: url("images/marvel background01.jpg");
 	background-color: blue;
 	opacity: 0.9;
 	z-index: -1
-	}
+}
+
+.main-content {
+  margin: 5px;
+}
+
 .header{
 	font-family: impact;
 	font-size: 40px;
@@ -129,4 +134,8 @@ body{
 .heros{
 	font-size: 30px;
 	color: red;
+}
+
+img.faded {
+  opacity: 0.9;;
 }
