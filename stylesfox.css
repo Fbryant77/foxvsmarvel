@@ -133,9 +133,11 @@ body{
 	padding-bottom: 20px;
 }
 .p{
+	word-spacing: 5px;
 	padding-bottom: 10px;
 	padding-left: 100px;
 	padding-right: 100px;
+	font-style: areial;
 	font-size: 20px
 
 }
