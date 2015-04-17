@@ -21,7 +21,7 @@ body{
 	right:100px;
 }
 
-.div1{
+.footer{
 	font-size: 20px;
 	padding: 10px;
 	color: white;
@@ -58,7 +58,7 @@ body{
 	height: 340px;
 	width: 630px;
 	position: absolute;
-	top: 590px;
+	top: 515px;
   border: 4px solid rgb(0, 0, 0)
 }
 
@@ -73,7 +73,7 @@ body{
 	width: 630px;
 	margin-left: 680px;
 	position: absolute;
-	top: 590px;
+	top: 515px;
 	border: 4px solid rgb(0, 0, 0);
 }
 
