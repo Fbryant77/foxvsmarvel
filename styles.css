@@ -25,8 +25,6 @@ body{
 	padding: 10px;
 	color: white;
 	background-color: black;
-	position: relative;
-	top: 856px;
 	z-index: -1;
 }
 
@@ -78,17 +76,16 @@ body{
 
 
 .fox-c{
-	margin-left: 25px;
-	position: absolute;
-	top: 50px;
 	z-index: -1;
+  margin-right: 80px;
 }
 
 .marvel-c{
-	margin-left: 705px;
-	position: absolute;
-	top: 50px;
 	z-index: -1;
+}
+
+.back-image {
+  margin-bottom: -700px;
 }
 
 .center{
