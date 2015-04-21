@@ -52,6 +52,9 @@ body{
 .div2{
 	color: black;
 	font-weight: bold;
+	position: relative;
+	top: 850px;
+
 }
 
 .fox{
